@@ -1,3 +1,18 @@
 {
 	"version":"1.0",
+	"mssc":{
+		"speech":{
+			"token":"https://api.cognitive.microsoft.com/sts/v1.0/issueToken",
+			"query":"https://speech.platform.bing.com/recognize/query"
+		},
+		"vision":{
+			"ocr":"https://westus.api.cognitive.microsoft.com/vision/v1.0/ocr"
+		},
+		"emotion":{
+			"recognize":"https://westus.api.cognitive.microsoft.com/emotion/v1.0/recognize"
+		},
+		"face":{
+			"detect":"https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect"
+		}
+	}
 }
