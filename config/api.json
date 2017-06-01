@@ -3,16 +3,20 @@
 	"mssc":{
 		"speech":{
 			"token":"https://api.cognitive.microsoft.com/sts/v1.0/issueToken",
-			"query":"https://speech.platform.bing.com/recognize/query"
+			"query":"https://speech.platform.bing.com/recognize/query",
+			"secret":"EuYG+37DothjYjFjNDM4OWE2NzE5YjA0MmNmOGFjN2Y="
 		},
 		"vision":{
-			"ocr":"https://westus.api.cognitive.microsoft.com/vision/v1.0/ocr"
+			"ocr":"https://westus.api.cognitive.microsoft.com/vision/v1.0/ocr",
+			"secret":"xhpTw1zM+ZcwZTQwNDYxZWFmMWQwYjExYjYwOWE3NWE="
 		},
 		"emotion":{
-			"recognize":"https://westus.api.cognitive.microsoft.com/emotion/v1.0/recognize"
+			"recognize":"https://westus.api.cognitive.microsoft.com/emotion/v1.0/recognize",
+			"secret":"uvL7TzHU4wIwY2VjNGMyZmE2ODY0OGM0YmQ1MzE3MmY="
 		},
 		"face":{
-			"detect":"https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect"
+			"detect":"https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect",
+			"secret":"NsnHB7lK001mOGEzNGI5ZWE4OGJmY2VhMmE3NzBlY2Q="
 		}
 	}
 }
