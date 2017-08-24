@@ -16,7 +16,7 @@
 		},
 		"face":{
 			"detect":"https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect",
-			"secret":"NsnHB7lK001mOGEzNGI5ZWE4OGJmY2VhMmE3NzBlY2Q="
+			"secret":"RZn+EYVSPMk3NTg2NDVhYmJkOWM2YzI4YmIwYjU2NGI="
 		}
 	}
 }
