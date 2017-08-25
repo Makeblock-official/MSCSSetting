@@ -4,19 +4,19 @@
 		"speech":{
 			"token":"https://api.cognitive.microsoft.com/sts/v1.0/issueToken",
 			"query":"https://speech.platform.bing.com/recognize/query",
-			"secret":"EuYG+37DothjYjFjNDM4OWE2NzE5YjA0MmNmOGFjN2Y="
+			"secret":"gj/9PHLzGuA0MzZmNGNlNTk3M2JiMWNhOWYwMTE0MDQ="
 		},
 		"vision":{
 			"ocr":"https://westus.api.cognitive.microsoft.com/vision/v1.0/ocr",
-			"secret":"xhpTw1zM+ZcwZTQwNDYxZWFmMWQwYjExYjYwOWE3NWE="
+			"secret":"FPPut6fauatlNWI5NDUxNThlYTlkMzFiMmEzODk4Nzc="
 		},
 		"emotion":{
 			"recognize":"https://westus.api.cognitive.microsoft.com/emotion/v1.0/recognize",
-			"secret":"uvL7TzHU4wIwY2VjNGMyZmE2ODY0OGM0YmQ1MzE3MmY="
+			"secret":"1DnkLjEQC6tiY2EyNDYyMmE3Mjk4MGZlMmI4M2UzYmU="
 		},
 		"face":{
 			"detect":"https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect",
-			"secret":"RZn+EYVSPMk3NTg2NDVhYmJkOWM2YzI4YmIwYjU2NGI="
+			"secret":"f+FqnfXqjF82NmUzNGI4MDk3YzM4OWQwOTQ0ZWZmOGE="
 		}
 	}
 }
