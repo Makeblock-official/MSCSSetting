@@ -15,7 +15,7 @@
 			"secret":"V2vpiFE1mOJiY2EyNDYyMmE3Mjk4MGZlMmI4M2UzYmU="
 		},
 		"face":{
-			"detect":"https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect",
+			"detect":"https://westus.api.cognitive.microsoft.com/face/v1.0/detect",
 			"secret":"3Ww1LyunRrY2NmUzNGI4MDk3YzM4OWQwOTQ0ZWZmOGE="
 		}
 	}
